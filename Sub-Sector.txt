@@ -1,0 +1,44 @@
+
+
+B. Klasifikasi Sektor dan Subsektor
+
+Mulai 25 Januari 2021, BEI mengimplementasikan klasifikasi baru atas sektor dan industri perusahaan tercatat yang bernama “Indonesia Stock Exchange Industrial Classification” atau IDX-IC. Informasi lebih lanjut dapat diakses pada dokumen pengumuman dan panduan IDXIC di halaman ini (
+
+).
+
+    Energi (A)
+
+    Sektor Energi mencakup perusahaan yang menjual produk dan jasa terkait dengan ekstraksi energi yang mencakup energi tidak terbarukan (fossil fuels) sehingga pendapatannya secara langsung dipengaruhi oleh harga komoditas energi dunia, seperti perusahaan Pertambangan Minyak Bumi, Gas Alam, Batu Bara, dan perusahaan-perusahaan yang menyediakan jasa yang mendukung industri tersebut. Selain itu sektor ini juga mencakup perusahaan yang menjual produk dan jasa energi alternatif.
+    Barang Baku (B)
+
+    Industri Barang Baku mencakup perusahaan yang menjual produk dan jasa yang digunakan oleh industri lain sebagai bahan baku untuk memproduksi barang final, seperti perusahaan yang memproduksi Barang Kimia, Material Konstruksi, Wadah & Kemasan, Pertambangan Logam & Mineral Non-Energi, dan Produk Kayu & Kertas.
+    Perindustrian (C)
+
+    Industri Perindustrian mencakup perusahaan yang menjual produk dan jasa yang secara umum dikonsumsi oleh industri, bukan oleh konsumen. Produk dan jasa dihasilkan merupakan produk dan jasa final dan bukan produk yang harus diolah lagi seperti bahan baku. Industri ini mencakup produsen Barang Kedirgantaraan, Pertahanan, Produk Bangunan, Produk Kelistrikan, Mesin. Selain itu industri ini juga mencakup penyedia Jasa Komersial - seperti Percetakan, Pengelola Lingkungan, Pemasok Barang dan Jasa Industri - dan Jasa Profesional - seperti Jasa Personalia dan Jasa Penelitian - untuk keperluan industri.
+    Barang Konsumen Primer (D)
+
+    Industri Barang Konsumen Primer mencakup perusahaan yang melakukan produksi atau distribusi produk dan jasa yang secara umum dijual pada konsumen namun tetapi untuk barang yang bersifat anti-siklis atau barang primer/dasar sehingga permintaan barang dan jasa ini tidak dipengaruhi pertumbuhan ekonomi, seperti Perusahaan Ritel Barang Primer – Toko Makanan, Toko Obat-obatan, Supermarket, Produsen Minuman, Makanan Kemasan, Penjual Produk Pertanian, Produsen Rokok, Barang Keperluan Rumah Tangga, dan Barang Perawatan Pribadi.
+    Barang Konsumen Non-Primer (E)
+
+    Industri Barang Konsumen Sekunder mencakup perusahaan yang melakukan produksi atau distribusi produk dan jasa yang secara umum dijual pada konsumen namun tetapi untuk barang yang bersifat siklis atau barang sekunder sehingga permintaan barang dan jasa ini berbanding lurus dengan pertumbuhan ekonomi. Industri ini mencakup perusahaan yang memproduksi Mobil Penumpang dan Komponennya, Barang Rumah Tangga Tahan Lama (Durable), Pakaian, Sepatu, Barang Tekstil, Barang Olahraga dan Barang Hobi. Selain itu industri ini juga mencakup perusahaan yang menyediakan Jasa Pariwisiata, Rekreasi, Pendidikan, Penunjang Konsumen, Perusahaan Media, Periklanan, Penyedia Hiburan, dan Perusahaan Ritel Barang Sekunder.
+    Kesehatan (F)
+
+    Industri Kesehatan mencakup perusahaan yang menyediakan produk dan layanan kesehatan seperti Produsen Peralatan dan Perlengkapan Kesehatan, Penyedia Jasa Kesehatan, Perusahaan Farmasi, dan Riset di Bidang Kesehatan.
+    Keuangan (G)
+
+    Industri Keuangan mencakup perusahaan yang menyediakan layanan keuangan seperti Bank, Lembaga Pembiayaan Konsumen, Modal Ventura, Jasa Investasi, Asuransi, dan Perusahaan Holdings.
+    Properti & Real Estat (H)
+
+    Industri Properti dan Real Estat mencakup perusahaan Pengembang Properti dan Real Estate dan perusahaan yang menyediakan Jasa Penunjangnya
+    Teknologi (I)
+
+    Industri Teknologi mencakup perusahaan yang menjual Produk dan Jasa Teknologi, seperti Perusahan Jasa Internet yang bukan penyedia koneksi internet, Penyedia Jasa dan Konsultan TI, Perusahaan Pengembang Perangkat Lunak, Produsen Perangkat Jaringan, Perangkat Komputer, Perangkat dan Komponen Elektronik, dan Semikonduktor.
+    Infrastruktur (J)
+
+    Industri Infrastruktur mencakup perusahaan yang berperan dalam Pembangunan dan Pengadaan Infrastruktur seperti Perusahaan Penyedia Jasa Logistik dan Pengantaran, Penyedia Transportasi, Operator Infrastruktur Transportasi, Perusahaan Konstruksi Bangunan Sipil, Perusahaan Telekomunikasi, dan Perusahaan Utilitas.
+    Transportasi & Logistik (K)
+
+    Industri Transportasi dan logistik mencakup perusahaan yang berperan dalam aktivitas perpindahan dan pengangkutan seperti , Penyedia Transportasi serta Perusahaan Penyedia Jasa Logistik dan Pengantaran.
+    Produk Investasi Tercatat (Z)
+
+    Produk Investasi Tercatat mencakup produk-produk investasi yang tercatat di Bursa Efek Indonesia.

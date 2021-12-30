@@ -1,0 +1,21 @@
+
+> consist of 2 file: 
+file 1: dbname.key
+file 2: dbname.value
+
+--------------------
+> STRUCTURE of file 1: dbname.key
+[HEADER key1 name]
+[HEADER key1 start_offset]
+[HEADER key1 size]
+...
+...
+...
+[HEADER key9 name]
+[HEADER key9 start_offset]
+[HEADER key9 size]
+
+---------------
+> file 2: dbname.value
+
+
