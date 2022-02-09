@@ -13,6 +13,7 @@ echo; >> website-popularity.txt
 python ..\Alexa-Rank\alexa.py tokopedia.com >> website-popularity.txt
 python ..\Alexa-Rank\alexa.py shopee.co.id >> website-popularity.txt
 python ..\Alexa-Rank\alexa.py bukalapak.com >> website-popularity.txt
+python ..\Alexa-Rank\alexa.py lazada.co.id >> website-popularity.txt
 python ..\Alexa-Rank\alexa.py olx.co.id >> website-popularity.txt
 python ..\Alexa-Rank\alexa.py jd.id >> website-popularity.txt
 
